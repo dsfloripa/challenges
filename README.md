@@ -1,2 +1,3 @@
 # challenges
-Data challenges from and for the community
+
+Data challenges from and for the community.
